@@ -3,7 +3,9 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
-using namespace std;
+using namespace std;\
+
+//Here I made a student structure 
 
 struct Student {
     int age;
