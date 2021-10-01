@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;\
 
-//Here I made a student structure 
+//Here I made a student structures
 
 struct Student {
     int age;
