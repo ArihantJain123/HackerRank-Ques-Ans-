@@ -7,7 +7,7 @@
 #include <algorithm>
 using namespace std;
 
-// in this program i make a 2D array new one 
+// in this program i make a 2D array new one added 
 int main() {
     int a[6][6],s;
     int m=INT_MIN;
